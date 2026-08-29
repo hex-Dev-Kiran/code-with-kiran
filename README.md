@@ -2,4 +2,4 @@
 What i learned: What is html and what are some useful elements of html,headings,pargraph.
 Key points: 
 HTML= content/structure of website
-<p>= paragraph, <h1>= Heading
+<p>= paragraph,<h1>= Heading
