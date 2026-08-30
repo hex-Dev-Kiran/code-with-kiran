@@ -1,4 +1,44 @@
-# Day 01: Introduction to html and basic elements of HTML.
-What i learned: What is html and what are some useful elements of html,headings,pargraph.
-# Key points: 
- HTML= content/structure of website 
+# Day 01: Introduction to HTML & Basic Elements
+
+## What I Learned Today
+Today was Day 1 of my becoming a full stack developer journey. 
+Started with the basics of Web Development.
+
+### Topics Covered
+1.  **What is HTML?**  
+    HTML = HyperText Markup Language.  
+    It is the skeleton/structure of every website.
+3.  **Heading Tags**  
+    `<h1>` to `<h6>` - Used for titles and subtitles. h1 is biggest.
+4.  **Paragraph Tag**  
+    `<p>` - Used to write paragraphs and normal text.
+
+### Code I Wrote
+Created a simple webpage with heading and paragraph.
+File: `index.html`
+
+### Key Takeaway
+Every website starts with HTML. Without structure, CSS and JS are useless.
+# Day 02: Link Tag & Image Tag
+
+## What I Learned Today
+Learned how to connect pages and add media to a website.
+
+### Topics Covered
+1.  **Anchor Tag `<a>`**  
+    Used to create clickable links.  
+    Syntax: `<a href="https://example.com">Click Me</a>`
+    `href` = where the link goes
+2.  **Image Tag `<img>`**  
+    Used to display images on a webpage.  
+    Syntax: `<img src="image.jpg" alt="description">`
+    `src` = image source/path
+    `alt` = text shown if image doesn't load. Important for SEO.
+
+### Code I Wrote
+Added a link to freeCodeCamp and added an image to my Day 1 page.
+File: `day 02.html`
+
+### Key Takeaway
+Links connect the web. Images make websites beautiful. 
+Both tags are self-closing and most used in HTML.
