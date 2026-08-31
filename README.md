@@ -42,3 +42,31 @@ File: `day 02.html`
 ### Key Takeaway
 Links connect the web. Images make websites beautiful. 
 Both tags are self-closing and most used in HTML.
+# Day 03: HTML Sections, Figure & Attributes
+
+## What I Learned
+Learned how to structure a webpage semantically.
+
+### Topics Covered
+1.  **HTML Boilerplate**  
+    The basic structure every HTML page starts with:  
+    `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
+2.  **Section Tag `<section>`**  
+    Used to group related content. Makes code organized.
+3.  **Figure & Figcaption `<figure> <figcaption>`**  
+    Used to display images with a caption.  
+    Example: `<figure><img><figcaption>Text</figcaption></figure>`
+4.  **Attributes**  
+    Extra info added to tags. Format: `name="value"`  
+    Examples: `href`, `src`, `alt`, `charset`
+
+### Code I Wrote
+Built "Top Itineraries" section using `<section>`, `<figure>`, `<figcaption>` 
+and `<img>` tags for Travel Agency page.
+No HTML comments used.
+File: `day-03-index.html`
+
+### Key Takeaway
+Boilerplate gives structure. Sections + Figure make it semantic. 
+Attributes give tags meaning.
+
