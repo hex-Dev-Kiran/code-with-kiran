@@ -60,12 +60,6 @@ Learned how to structure a webpage semantically.
     Extra info added to tags. Format: `name="value"`  
     Examples: `href`, `src`, `alt`, `charset`
 
-### Code I Wrote
-Built "Top Itineraries" section using `<section>`, `<figure>`, `<figcaption>` 
-and `<img>` tags for Travel Agency page.
-No HTML comments used.
-File: `day-03-index.html`
-
 ### Key Takeaway
 Boilerplate gives structure. Sections + Figure make it semantic. 
 Attributes give tags meaning.
