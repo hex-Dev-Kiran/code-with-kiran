@@ -64,3 +64,58 @@ Learned how to structure a webpage semantically.
 Boilerplate gives structure. Sections + Figure make it semantic. 
 Attributes give tags meaning.
 
+# Day 4: HTML Fundamentals
+
+This is Day 4 of my learning journey.  
+Today we covered core HTML building blocks: elements, tags, and how content is structured on a webpage.
+
+## Topics Covered
+
+### 1. Tags vs Elements
+Understanding the difference is key in HTML.
+
+**Tags**  
+Labels wrapped in angle brackets `<>` that mark the start and end of an element.  
+Example: `<p>`, `</p>`, `<img>`
+
+**Elements**  
+The complete package consisting of the opening tag, the content inside, and the closing tag.  
+Example: `<p>This is a paragraph</p>`
+
+### 2. Types of Elements
+
+**Empty Elements**  
+Elements that do not need a closing tag. They only have an opening tag.  
+Examples: `<img>`, `<br>`, `<hr>`, `<input>`
+
+**Inline Elements**  
+Do not start on a new line. Only take up as much width as their content requires.  
+Examples: `<a>`, `<strong>`, `<em>`, `<span>`, `<img>`
+
+**Block Elements**  
+Always start on a new line and occupy the full width available within their parent.  
+Examples: `<p>`, `<h1> - <h6>`, `<div>`, `<ul>`, `<li>`
+
+### 3. Text Formatting Tags
+
+**`<strong>` tag**  
+Renders text in bold to signal importance.  
+Example: `<strong>Important Notice</strong>`
+
+**`<em>` tag**  
+Renders text in italic for emphasis.  
+Example: `<em>This is emphasized</em>`
+
+### 4. Structural Tags
+
+**`<div>` tag**  
+A generic block-level container used to group elements together for styling with CSS later.  
+Example: `<div>All content goes here</div>`
+
+### 5. Comments
+You can add notes to your code that browsers will completely ignore.  
+Comments are helpful for documentation and remembering code.
+
+Syntax:
+```html
+<!-- This is a comment -->
