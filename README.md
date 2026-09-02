@@ -117,8 +117,9 @@ You can add notes to your code that browsers will completely ignore.
 Comments are helpful for documentation and remembering code.
 
 Syntax:
-```html
 <!-- This is a comment -->
+
+
 # Day 05: HTML Audio & Video Element
 Today I learned and implemented the `<audio>` and `<video>` elements in HTML5.
 
