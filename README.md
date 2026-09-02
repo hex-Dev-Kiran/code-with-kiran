@@ -119,3 +119,12 @@ Comments are helpful for documentation and remembering code.
 Syntax:
 ```html
 <!-- This is a comment -->
+# Day 05: HTML Audio & Video Element
+Today I learned and implemented the `<audio>` and `<video>` elements in HTML5.
+
+### 📌 What I Learned Today
+- **HTML5 `<audio>` tag**: How to add and control audio files
+- **HTML5 `<video>` tag**: How to embed and control videos
+- **Attributes**: `controls`, `autoplay`, `loop`, `muted`, `poster`, `preload`
+- **Multiple sources**: Using `<source>` tag for browser compatibility
+
